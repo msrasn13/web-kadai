@@ -1,0 +1,35 @@
+/*
+Theme Name: Web x17000
+Author: Hiroaki SAWANO
+Description: 初めてのWordpress.
+Version: 0.0.1
+*/
+
+.menu_nav a{
+	background-color:red;		/* 背景色： */
+	padding: 10px; /* 空白 */
+}
+
+.sidebar {
+	width: 280px; /* 横 */
+	height: 600px; /* 縦 */
+	background-color:#cccccc;		/* 背景色： */
+	float: left;
+}
+
+.main-contents{
+	background-color:#0055ff;		/* 背景色： */
+	width: 1080px; /* コンテンツの幅 */
+	height: 600px; /* コンテンツの高さ */
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+.right-contents{
+	height: 600px; /* 縦 */
+	width: 800px; /* 横 */
+	float:left;
+	background-color:yellow;		/* 背景色： */
+	margin-left: auto;
+	margin-right: auto;
+}
